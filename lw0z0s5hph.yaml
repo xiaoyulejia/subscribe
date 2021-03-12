@@ -49,7 +49,7 @@ dns:
 
   #示例格式 - {"name":"xxx","type":"ssr","server":"url","port":10051,"cipher":"aes-256-cfb","password":"...","protocol":"auth_aes128_sha1","protocolparam":"106589:ex5uucgk5nn","obfs":"tls1.2_ticket_auth","obfsparam":"ebae8106589.baidu.com"}
 proxies:
-  - {"name":"小娱乐家 3-07","type":"ssr","server":"baidu.com","port":80,"cipher":"aes-256-cfb","password":"SSR.Gold@#65531","protocol":"auth_aes128_sha1","protocolparam":"106589:ex5uucgk5nn","obfs":"tls1.2_ticket_auth","obfsparam":"ebae8106589.baidu.com"}
+  - {"name":"小娱乐家 3-12","type":"ssr","server":"baidu.com","port":80,"cipher":"aes-256-cfb","password":"SSR.Gold@#65531","protocol":"auth_aes128_sha1","protocolparam":"106589:ex5uucgk5nn","obfs":"tls1.2_ticket_auth","obfsparam":"ebae8106589.baidu.com"}
   - {"name":"233","type":"ssr","server":"baidu.com","port":80,"cipher":"aes-256-cfb","password":"SSR.Gold@#65531","protocol":"auth_aes128_sha1","protocolparam":"106589:ex5uucgk5nn","obfs":"tls1.2_ticket_auth","obfsparam":"ebae8106589.baidu.com"}
   - {"name":"台湾 HiNet A01","type":"vmess","server":"116.163.14.190","port":15108,"uuid":"8478b78e-9ce5-3b23-8628-7a59033e4724","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/Pi64Mn1k","ws-headers":{"Host":"116.163.14.190"}}
   - {"name":"台湾 HiNet A02","type":"vmess","server":"116.163.14.190","port":15109,"uuid":"8478b78e-9ce5-3b23-8628-7a59033e4724","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/Pi64Mn1k","ws-headers":{"Host":"116.163.14.190"}}
@@ -108,7 +108,7 @@ proxy-groups:
   type: select
   proxies:
     - '♻️ 自动选择'
-    - '小娱乐家 3-07'
+    - '小娱乐家 3-12'
     - '233'
     - '台湾 HiNet A01'
     - '台湾 HiNet A02'
